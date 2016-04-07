@@ -5,7 +5,8 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.codecheck123.dumbbdd.UserStory;
+import com.codecheck123.dumbbdd.dsl.UserStory;
+import com.codecheck123.dumbbdd.example.Calculator;
 
 
 public class PostJDK8CalculatorTest {
